@@ -1,0 +1,259 @@
+.titulointroimg{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://media.istockphoto.com/id/1367938983/es/vector/colecci%C3%B3n-de-postres-de-bocetos-y-marcos-elegantes-ilustraci%C3%B3n-vectorial.jpg?s=612x612&w=0&k=20&c=yylwdHpy4cjMJv3xngVX_VuDzvngK_pMzDQMK-T2jRs=);
+   background-size: cover;
+   background-position: center;
+}
+
+.intro{
+
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.footer-links{
+
+    margin-left: 45%;
+    margin-right: 25%;
+}
+
+.carrusel{
+
+    margin: 30px;
+
+}
+
+.outro{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.introhotcakes{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://www.ensure.abbott/content/dam/an/ensure/mx/es/images/mobile-images/25_nutrition_wgh_recepy_example_doc_1/Trazado%203793.jpg);
+   background-size: cover;
+   background-position: center;
+
+}
+
+.imgintrohotcakes{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+ 
+}
+
+.Pasosreceta{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+
+}
+
+.introchocoflan{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://ih1.redbubble.net/image.1432142393.5795/st,small,507x507-pad,600x600,f8f8f8.jpg);
+   background-size: cover;
+   background-position: center;
+
+}
+
+.procedimientochcoflan{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.pasoschocoflan{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.introgelatina{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://cdn.pixabay.com/photo/2012/04/18/20/33/jelly-37810_1280.png);
+   background-size: cover;
+   background-position: top;
+
+}
+
+.intropaylemon{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://st4.depositphotos.com/1041725/38725/v/450/depositphotos_387253672-stock-illustration-lemon-pie-illustration-vector-white.jpg);
+   background-size: cover;
+   background-position: center;
+
+}
+
+.intromuffin{
+
+    text-align: center;
+    padding: 30px;
+   background-image: url(https://st4.depositphotos.com/1029819/22703/v/450/depositphotos_227031270-stock-illustration-chocolate-chip-muffin-cartoon.jpg);
+   background-size: cover;
+   background-position: center;
+
+
+}
+
+.procedimientomuffin{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.pasosgelatina{
+
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+    color: black;   
+    line-height: 1.6;
+    text-align: justify;
+    padding: 50px;
+border-radius: 30px;
+ display:flex;
+ font-size-adjust: calc(18px);
+
+}
+
+.IMGELATINA{
+
+display: flex;
+justify-content: center;
+padding: 30px;
+}
+
+.imgelatina2{
+
+    display: flex;
+    justify-content: center;
+padding: 30px;
+}
+
+.imgchoco{
+
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.imgpay{
+
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.imghot{
+
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.vidpostre{
+
+    margin: 20px;
+    padding: 50px;
+    border-radius: 30px;
+    display:flex;
+}
+
+
+
+
+.footer{
+
+    text-align: center;
+    background-color: black;
+    color: #f0f0f0;
+
+}
+
